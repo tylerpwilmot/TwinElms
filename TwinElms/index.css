@@ -1,0 +1,41 @@
+.nav-logo {
+	height: 140px;
+	width: 400px;
+	padding-top: 0;
+}
+
+.nav-padding {
+	padding-top: 15px;
+}
+
+.nav-font {
+	font-size: 2.75rem;
+	color: #105e23;
+}
+
+.copy-text {
+	padding-left: 75px;
+	padding-right: 75px;
+	font-size: 1.5rem;
+}
+
+.footer-text {
+	text-align: center;
+}
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 45%;
+    left: 0;
+    width: 100%;
+}
+
+.caption-text {
+	font-weight: bold;
+	font-size: 2.5rem;
+	color: white;
+}
